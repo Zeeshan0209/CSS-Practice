@@ -1,0 +1,13 @@
+/* RGB Color System */
+
+h2{
+    color:rgb(255,0,0);
+    background-color: rgb(125,125,125);
+}
+
+/* Hexadecimal Colour System */
+
+p{
+   color:#05412d;
+   background-color:#02fefe
+}

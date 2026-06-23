@@ -1,0 +1,22 @@
+h1{
+    line-height: 0;
+    letter-spacing: 5px;
+    color: red;
+    text-decoration: dotted black underline;
+    text-align: center;
+}
+h2{
+    letter-spacing: 10;
+    text-decoration: double red line-through;
+}
+h3{
+    text-decoration: wavy underline blue;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-align: justify;
+    letter-spacing: 2px;
+}

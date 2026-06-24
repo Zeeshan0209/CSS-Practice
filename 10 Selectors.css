@@ -1,0 +1,36 @@
+/* Universal Selector */
+*{
+    font-family: times new roman;
+}
+
+/* Element Selector */
+h3,
+h1{
+    color:#b92b27;
+}
+
+/* Id selector */
+#signup{;
+    color:white;
+    background-color: #b92B27
+}
+#login{
+    background-color:white;
+}
+
+/* Class Selector */
+
+.upvote{
+    background-color: Green;
+    color: black;
+}
+
+/* Descandent Selector  */
+
+nav ul li a{
+    color: pink;
+}
+.aa a{
+    color: black;
+    background-color: yellow;
+}

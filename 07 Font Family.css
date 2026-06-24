@@ -5,7 +5,7 @@ h1{
 }
 h2{
     text-decoration: double red line-through;
-    font-size: Lucida Console;
+    font-family: Lucida Console;
 }
 h3{
     text-decoration: wavy underline blue;

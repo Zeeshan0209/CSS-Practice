@@ -1,0 +1,50 @@
+p{
+    color:#ff0000;
+    text-align: center;
+    line-height: 30px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color:#000000
+}
+body{
+    font-family: Georgia;
+}
+a{
+    color: rgb(0,255,0);
+    text-decoration: none;
+}
+button{
+    background-color: white;
+    color: blueviolet;
+}
+textarea{
+    color: #000000;
+}
+.underline{
+    text-decoration: underline;
+}
+
+/* Assignment Questions:- */
+
+
+/* Qs2: Change the color of the poem to brown using hex code */
+
+/* Qs3: Align all the headings and the poem to the center of the page */
+
+/* Qs4: Change the color of the poem to red and the poet's name to black */
+
+/* Qs5: Change the font of the entire document to Georgia */
+
+/* Qs6: Set the Wikipedia link color to green using RGB value and remove its underline */
+
+/* Qs7: Change the button background color to white and button text color to blueviolet */
+
+/* Qs8: Set the textarea font color to black (#000000) */
+
+/* Qs9: Set the poem's line-height to 30px */
+
+/* Qs10: Underline only the word Ozymandias inside the poem */

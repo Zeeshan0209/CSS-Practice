@@ -1,0 +1,19 @@
+/* Hover Pseudo Class  */
+
+button:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+h3:hover{
+    text-decoration: dotted underline;
+    color: blue;
+}
+
+
+/* Active Pseudo Code  */
+
+button:active{
+    background-color: hotpink;
+    color: black;
+}

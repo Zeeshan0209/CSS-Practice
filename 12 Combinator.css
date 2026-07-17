@@ -1,0 +1,24 @@
+/* Soibling Combinator  */
+
+p + h3{
+    text-decoration: underline;
+}
+
+.upvote + button{
+    background-color:rgb(255,100,97);
+}
+
+/* Child Combinator */
+
+span > button{
+    color: rgb(64, 2, 2);
+}
+
+/* Attribute Combinator */
+
+button[id="login"]{
+    background-color: wheat;
+}
+p[class="aa"]{
+    background-color: blueviolet;
+}

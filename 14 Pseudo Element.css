@@ -1,0 +1,21 @@
+h1,h3,p{
+    color: rgb(180, 15, 15);
+}
+
+/* first Letter Psuedo Element */
+
+h1::first-letter{
+    color: green;
+}
+
+/* First Line Pseudo Element */
+
+p::first-line{
+    color: violet;
+}
+
+/* Selection Psuedo Element  */
+
+p::selection{
+    background-color: rgb(164, 205, 50);
+}

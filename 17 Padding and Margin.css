@@ -1,0 +1,29 @@
+div{
+    height: 200px;
+    width: 500px;
+    background-color: rgb(179, 21, 21);
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+/* Padduing Property */
+
+div{
+    padding: 50px 20px 20px 20px;
+}
+
+button{
+    padding: 20px 20px;
+    border-radius: 20px;
+    background-color: rgb(21, 90, 6);
+    border-style: solid;
+    border-width: 3px;
+}
+
+/* Margin Property */
+
+div{
+    margin: 25px;
+}

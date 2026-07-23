@@ -1,0 +1,14 @@
+div{
+    height: 200px;
+    width: 500px;
+    background-color: rgb(179, 21, 21);
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+
+}
+h2{
+    height: 100px;
+    border-radius: 20px;
+}

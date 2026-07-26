@@ -1,0 +1,13 @@
+div{
+    box-shadow: 2px 2px 10px black;
+}
+ div{
+    height: 50px;
+    width:500px ;
+    border:2px black solid;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    background-color: mediumaquamarine;
+    margin: auto;
+}

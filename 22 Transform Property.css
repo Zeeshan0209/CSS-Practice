@@ -21,9 +21,27 @@ div:nth-of-type(3n){
     transform: rotate(45deg);
 }
 
+/* Scale Property */
+
 #three{
     transform: scale(0.5);
 }
 #four{
     transform: scaleX(1.5);
+}
+
+/* Skew Property */
+
+#five{
+    transform: skew(30deg);
+}
+
+/* Translate Property */
+
+#two{
+    transform: translate(100px);
+}
+
+#three{
+    transform: translateX(100px) skew(40deg) rotate(45deg) scale(2);
 }

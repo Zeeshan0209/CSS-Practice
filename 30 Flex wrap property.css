@@ -1,0 +1,37 @@
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#row{
+    height: 300px;
+    width: 80%;
+    border: 2px solid black;
+   margin: 10px auto;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+}
+ #row div{
+    height: 100px;
+    width: 300px;
+    color: white;
+    text-align: center;
+}
+#column{ 
+    height: 300px;
+    width: 80%;
+    border: 2px solid black;
+   margin: 10px auto;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap-reverse;
+   justify-content: space-around;
+}
+#column div{
+    height: 100px;
+    width: 300px;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+#out{
+    height: 400px;
+    width: 400px;
+    border: 2px solid rgb(118, 195, 225);
+    border-radius: 10px; 
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+}
+.in{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+    background-color: grey;
+}
+
+#sec{
+    height: 50px;
+    width: 900px; 
+    border: 2px solid rgb(118 195 225);
+    border-radius: 5px;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.elm{
+    font-size: 24px;
+    margin: 5px;
+}

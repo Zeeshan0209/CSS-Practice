@@ -1,0 +1,21 @@
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#row{
+    height: 300px;
+    width: 80%;
+    border: 2px solid black;
+   margin: 10px auto;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   align-content: space-evenly ;
+}
+ #row div{
+    height: 100px;
+    width: 300px;
+    color: white;
+    text-align: center;
+}
